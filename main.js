@@ -22,3 +22,16 @@ const colors = [
 colors.forEach(color => {
   makeBox(color, `This  box is ${color}`)
 })
+colors.forEach(color => {
+  makeBox(color, `This  box is ${color}`)
+})
+colors.forEach(color => {
+  makeBox(color, `This  box is ${color}`)
+})
+
+
+// EXERCISE 1: Calling a function
+
+
+// EXERCISE 2: Variables and Types
+
