@@ -50,13 +50,15 @@ wheat
 
   makeBox('Hello World', 'gold')
 
+  Notice how the two arguments are separated by a comma. Also notice how each
+  argument is wrapped in quotation marks. We'll explain what those are for very
+  shortly.
+
   Try these examples for yourself and see what the output looks like.
 */
 
 makeBox()
 makeBox('Hello World')
 makeBox('Hello World', 'gold')
-
-
 
 // EXERCISE 2: Variables and Types
