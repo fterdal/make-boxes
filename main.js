@@ -2,13 +2,21 @@
 /* global makeBox */
 
 const colors = [
-  '#820263', // purple
-  '#D90368', // dogwood
-  '#EADEDA', // gainsboro
-  '#FFD400', // yellow
-  '#016FB9', // spanish blue
-  '#EDF2F4', // anti-flash white
-  'cyan', // cyan
+  'salmon',
+  'crimson',
+  'tomato',
+  'gold',
+  'papayawhip',
+  'peachpuff',
+  'chartreuse',
+  'palegreen',
+  'aquamarine',
+  'turquoise',
+  'skyblue',
+  'plum',
+  'lavander',
+  'pink',
+  'wheat',
 ]
 
 colors.forEach(color => {
