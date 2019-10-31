@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 #container {
   background-color: #ddd;
   border: 1px solid black;
@@ -5,4 +9,16 @@
   height: 90vh;
   padding: 1em;
   margin: 1em;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 5em;
+  height: 5em;
+  border: 1px solid black;
+  padding: 0.5em;
+  text-align: center;
+  margin: 1px;
 }
